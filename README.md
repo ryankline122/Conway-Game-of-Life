@@ -8,7 +8,7 @@ ex.
 
 5 4
 1
-g x x r
+g x x r '\n'
 r x g g
 x x r x
 r g x r
